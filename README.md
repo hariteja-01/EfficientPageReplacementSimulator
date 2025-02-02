@@ -16,5 +16,13 @@ It helps users understand how different memory management techniques perform by 
 ✅ Well-structured **GitHub commits for version control**  
 
 ## 🔧 How to Run the Code
-1. **Compile the program**  
-
+### **1️⃣ Clone the Repository**
+To get started, clone this repository using:
+```bash
+git clone https://github.com/hariteja-01/EfficientPageReplacementSimulator.git
+cd EfficientPageReplacementSimulator
+### **2️⃣ Compile the C++ Program**
+Ensure you have g++ installed (Windows users need MinGW).
+To compile the program, run:
+```bash
+g++ page_replacement.cpp -o simulator
