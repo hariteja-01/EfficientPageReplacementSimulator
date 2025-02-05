@@ -46,5 +46,9 @@ Execute the Python script to generate a bar chart comparing the algorithms:
 python3 visualize.py   # For Linux/macOS
 python visualize.py    # For Windows
 ```
-
+### **6️⃣ Source Code Files**
+Click on the file names to view the respective code:
+- 📄 [C++ Code](page_replacement.cpp) → C++ implementation of FIFO, LRU, and Optimal page replacement algorithms.
+- 📄 [Python Code](visualize.py) → Python script for visualization using Matplotlib.
+- 📄 [Text File](results.txt) → Auto-generated file containing the number of page faults after running the C++ program.
 
