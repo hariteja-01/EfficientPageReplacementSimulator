@@ -1,0 +1,3 @@
+FIFO 8
+LRU 8
+Optimal 7
