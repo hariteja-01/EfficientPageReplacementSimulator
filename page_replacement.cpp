@@ -113,7 +113,7 @@ void Optimal(vector<int> pages, int frames)
     saveResults("Optimal", pageFaults);
 }
 
-// The main function of cpp to run the above functions.
+// The main function of cpp to run the above functions (also called as Driver Code).
 int main()
 {
     int frames, n;
@@ -128,7 +128,7 @@ int main()
     {
         cin >> pages[i];
     }
-
+    // close the file, so that memory leak issues will not come.
     ofstream fout("results.txt");
     fout.close();
 
