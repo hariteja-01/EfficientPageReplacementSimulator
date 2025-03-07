@@ -68,6 +68,8 @@ After running the Python script, you will see a **bar chart** like this:
 
 📌 **This graph helps visualize which algorithm is more efficient based on page faults.**  
 
+<img src="https://github.com/hariteja-01/EfficientPageReplacementSimulator/blob/main/_-%20visual%20selection%20(1).png" alt="flowchart" width="500"/>
+
 ---
 
 ## 📜 License  
