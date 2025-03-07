@@ -55,7 +55,8 @@ Click on the file names to view the respective code:
 - 📄 [Text File](results.txt) → Auto-generated file containing the number of page faults after running the C++ program.
 
 ---
-
+## Flow Chart
+![Flow Chart](https://github.com/hariteja-01/EfficientPageReplacementSimulator/blob/main/_-%20visual%20selection.png)
 ## 📊 Example Visualization Output
 After running the Python script, you will see a **bar chart** like this:  
 
