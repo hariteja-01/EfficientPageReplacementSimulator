@@ -56,7 +56,8 @@ Click on the file names to view the respective code:
 
 ---
 ## Flow Chart
-![Flow Chart](https://github.com/hariteja-01/EfficientPageReplacementSimulator/blob/main/_-%20visual%20selection.png)
+<img src="https://github.com/hariteja-01/EfficientPageReplacementSimulator/blob/main/_-%20visual%20selection.png" alt="flowchart" width="500"/>
+
 ## 📊 Example Visualization Output
 After running the Python script, you will see a **bar chart** like this:  
 
