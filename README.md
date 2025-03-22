@@ -72,6 +72,16 @@ After running the Python script, you will see a **bar chart** like this:
 
 ---
 
+## VS Code Screenshots 
+#### FIFO 
+<img src="https://github.com/hariteja-01/EfficientPageReplacementSimulator/blob/main/Project%20Screenshots/osproject1.jpg" alt="flowchart" width="500"/>
+
+#### LRU 
+<img src="https://github.com/hariteja-01/EfficientPageReplacementSimulator/blob/main/Project%20Screenshots/osproject2.jpg" alt="flowchart" width="500"/> 
+
+#### Optimal 
+<img src="https://github.com/hariteja-01/EfficientPageReplacementSimulator/blob/main/Project%20Screenshots/osproject3.jpg" alt="flowchart" width="500"/>
+
 ## 📜 License  
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
