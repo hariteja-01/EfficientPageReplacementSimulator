@@ -77,7 +77,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🚀 Author  
+## 🚀 Authors  
 👤 **Hari Teja Patnala**  
-🔗 GitHub Link: [hariteja-01](https://github.com/hariteja-01)  
+👤 **Samad** 
 
