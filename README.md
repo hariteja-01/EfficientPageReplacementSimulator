@@ -79,5 +79,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🚀 Authors  
 👤 **Hari Teja Patnala**  
-👤 **Samad** 
-
+👤 **Samad**   
+👤 **Dipesh Prabhakar**   
