@@ -40,7 +40,9 @@ simulator.exe  # For Windows
 ### **4️⃣ Install Python Dependencies**
 To generate the bar chart visualization, install Matplotlib:
 ```bash
-pip install matplotlib
+pip install matplotlib 
+pip install tkinter 
+pip install numpy 
 ```
 ### **5️⃣ Run the Python Visualization Script**
 Execute the Python script to generate a bar chart comparing the algorithms:
